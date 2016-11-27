@@ -57,3 +57,4 @@ Google性のAndroidのテストライブラリー(view)
 #### 書き方
 * とても少ない量で書くことができる.
 ## Android間違い探し by 赤井 忠昭
+## MOTEXの紹介
