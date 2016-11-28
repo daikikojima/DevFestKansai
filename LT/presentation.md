@@ -12,7 +12,7 @@ Rusberry PiではじめるおうちHack
 
 ### 公式サイト
 
-[ここ]("http://ouchi-book.kokage.cc/")
+[ここ](http://ouchi-book.kokage.cc/)
 
 ## Firebase Test Lab無料枠を使ってみた
 
