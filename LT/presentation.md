@@ -2,15 +2,20 @@
 ## おうちハックではじめるGCP
 ### おうちハック
 自分の暮らしは自分で作る!
+
 ### おうちハックの本
 Rusberry PiではじめるおうちHack
+
 ### GCPの例
 * 帰ってきたよカメラ
 実運用も大事!!</br>
+
 ### 公式サイト
 [ここ]("http://ouchi-book.kokage.cc/")
+
 ## Firebase Test Lab無料枠を使ってみた
 ## Android 7.1 app shortcut　　
+
 ### App Shortcuts
 長押ししたらショートカットが出る!!
 ### 静的ショートカット
@@ -20,6 +25,7 @@ Android Manifestに書き込む
 ピン留めすることもできる!
 ## プロダクトを育てるのにGoogleのサービスが助けてくれること
 ## Material Designのアプリを開発した話
+
 ### 課題管理
 backsource + かんばん
 ## UnityからAnroidへ
@@ -34,16 +40,19 @@ UnityPlayerのビルドパス問題
 </br>
 UnityがDaydreamに対応するのでこれを使ってやる. といい. </br>
 ## アドレス1つ
+
 ### IPが一つしかもらえなかった
 ### sslhを使って, ssh/httpsが443番で同居可能
 ### 結果
 アドレス一つでも何とかなる!!
 ## EspressoとかFirebase TestLabでテスト環境
+
 ### Espresso
 Google性のAndroidのテストライブラリー(view)
 ### Firebase
 実機時間割テスト　
 ## deep learning with c++ by Taiga Nomi
+
 ### deep learning framework
 * caffe
 * TensorFlow
